@@ -1,2 +1,2 @@
 # hello-world
-test
+This reprository is a try-out for setting up my personal GitHub
